@@ -3,7 +3,8 @@
 ##############################################################################
 ### NZBGET POST-PROCESSING SCRIPT                                          ###
 #
-# Move and rename comics according to Mylar & autoProcessComics.cfg 
+# Move and rename comics according to Mylar's autoProcessComics.cfg 
+#
 # NOTE: This script requires Python to be installed on your system.
 ##############################################################################
 ### OPTIONS                                                                ###
